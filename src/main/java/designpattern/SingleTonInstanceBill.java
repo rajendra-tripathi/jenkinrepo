@@ -17,6 +17,5 @@ public class SingleTonInstanceBill {
         System.out.println(SingleTonInstanceBill.getInstance());
         System.out.println(SingleTonInstanceBill.getInstance());
         System.out.println(SingleTonInstanceBill.getInstance());
-        System.out.println(SingleTonInstanceBill.getInstance());
     }
 }
