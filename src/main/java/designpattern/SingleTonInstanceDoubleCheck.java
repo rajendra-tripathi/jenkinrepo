@@ -20,5 +20,6 @@ public class SingleTonInstanceDoubleCheck {
         System.out.println(SingleTonInstanceDoubleCheck.getInstance());
         System.out.println(SingleTonInstanceDoubleCheck.getInstance());
         System.out.println(SingleTonInstanceDoubleCheck.getInstance());
+        System.out.println(SingleTonInstanceDoubleCheck.getInstance());
     }
 }
